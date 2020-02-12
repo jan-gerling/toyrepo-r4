@@ -2,7 +2,7 @@ package a;
 
 class Animal {
 
-	public static class Dog {
+	public static class CanisLupusFamiliaris {
 
 		private void print(int a, int b, int c) {
                         System.out.println(a);
@@ -20,7 +20,7 @@ class Animal {
 		}
 	}
 
-	public static class Cat {
+	public static class FelisCatus {
 
 		public void scratch() {
 			int x = 1;
