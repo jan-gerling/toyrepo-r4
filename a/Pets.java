@@ -4,7 +4,7 @@ class Pets {
 
 	public static class CanisLupusFamiliaris {
 
-		private void print(int a, int b, int c) {
+		private void imprino(int a, int b, int c) {
                         System.out.println(a);
                         System.out.println(b);
                         System.out.println(c);
@@ -16,7 +16,7 @@ class Pets {
 			int b = 2;
 			int c = 3;
 
-			print(a, b, c);
+			imprino(a, b, c);
 		}
 	}
 
