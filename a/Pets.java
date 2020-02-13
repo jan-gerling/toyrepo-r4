@@ -1,6 +1,6 @@
 package a;
 
-class Mammals {
+class Pets {
 
 	public static class CanisLupusFamiliaris {
 
